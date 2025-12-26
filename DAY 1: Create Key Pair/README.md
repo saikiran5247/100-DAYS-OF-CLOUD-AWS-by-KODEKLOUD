@@ -27,7 +27,7 @@ name: devops-kp
 Key pair type: RSA  
 Private key file format: .pem (For use with OpenSSH)
 4. Click on Create key pair. Now we have successfully created the key pair.
-5. Check if the keypair is successfully created from aws-client host in kodekloud
+5. Check if the keypair is successfully created from aws-client host in kodekloud by entering: **aws ec2 describe-key-pairs**
 
 <img width="941" height="292" alt="image" src="https://github.com/user-attachments/assets/40506d85-7599-46ad-bc86-d97f16e771d8" />  
 
